@@ -1,4 +1,8 @@
 hello 
 python
 hello
-firend
+<<<<<<< HEAD
+world
+=======
+world
+>>>>>>> newdev
